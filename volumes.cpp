@@ -1,4 +1,4 @@
-//this code is intended to demonstarate the concwpt of function overloading
+//this code is intended to demonstarate the concwpt of function overloading by usinh volume multiple times as function name
 #include <iostream>
 using namespace std;
 //returns volume of cube
