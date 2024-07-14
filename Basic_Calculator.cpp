@@ -1,4 +1,5 @@
 
+//will use goto statements for quitting from any operation
 #include <iostream>
 using namespace std;
                    
@@ -6,6 +7,7 @@ int main()
 {
     int op,a,b;
     cout<<"\t CALCULATOR"<<endl;
+    //using numbers to get the operation type by user
     cout<<"press 1 for Addition"<<endl;
     cout<<"press 2 for substraction"<<endl;
     cout<<"press 3 for Multiplication"<<endl;
